@@ -26,8 +26,8 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-*NOTE: it's a github metric of which languages i have the most code on github.
-*Other than provided in the metrics, I Also expert in C, C++, Python, and Java Programming language
+### NOTE: it's a github metric of which languages i have the most code on github.
+### Other than provided in the metrics, I Also expert in C, C++, Python, and Java Programming language
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiritoEdward&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Edward github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoEdward&layout=compact&theme=material-palenight" />
 
