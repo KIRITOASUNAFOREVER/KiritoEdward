@@ -36,7 +36,3 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoEdward&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KiritoEdward&repo=github-readme-stats&theme=material-palenight" />
-</a>    
