@@ -28,7 +28,5 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 
 *NOTE: it's a github metric of which languages i have the most code on github
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiritoEdward&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Edward github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoEdward&layout=compact&theme=material-palenight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoEdward&layout=compact&theme=material-palenight" />
+
