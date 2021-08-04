@@ -1,8 +1,5 @@
 ### Hi there, I'm [EDWARD!](https://kiritoedward.github.io/edward211620.github.io/) 👋
 
-<a href="wa.me/6285157261617">
-  <img align="left" alt="Edward | WhatsApp" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 <a href="https://twitter.com/Edwardsulistij1">
   <img align="left" alt="Edward | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -19,7 +16,6 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Algorithm, Data Structures, and DataBase
 - 📫 How to reach me: sulistijonoedward@gmail.com
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
 
