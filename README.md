@@ -15,15 +15,7 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 - 🔭 I’m currently working on Telkom Indonesia as Data Scientist
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Algorithm, Data Structures, and DataBase
-- 📫 How to reach me: sulistijonoedward@gmail.com
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- 📫 How to reach me: sulistijonoedward@gmail.com   
 
 
 ### NOTE: it's a github metric of which languages i have the most code on github.
