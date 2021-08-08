@@ -7,7 +7,7 @@
   <img align="left" alt="Edward Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="wa.me/6285157261617">
-  <img align="left" alt="Edward WhatsApp" width="21px" src="![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" />
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 </a>
 <a href="https://t.me/KiritoEdward">
   <img align="left" alt="Edward Telegram" width="21px" src="![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
