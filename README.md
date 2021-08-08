@@ -30,11 +30,11 @@ Hi, I'm EDWARD, a passionate self-taught Data Scientist from Indonesia.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F6A032)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
